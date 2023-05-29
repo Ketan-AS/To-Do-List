@@ -1,0 +1,24 @@
+Slide 1: Introduction
+
+Welcome to the presentation on the To-Do List Application with Login Feature.
+In this presentation, we'll discuss the code implementation of a To-Do List application with a login feature using the Tkinter library in Python.
+To-Do List applications are widely used to organize and manage tasks effectively.
+The login feature adds an extra layer of security and personalization to the application.
+Slide 2: Overview of the Code
+
+The code is written in Python and utilizes the Tkinter library for creating a graphical user interface.
+It consists of two main parts: the login functionality and the main To-Do List application.
+The login functionality validates the user's credentials before granting access to the application.
+The main To-Do List application allows users to add, delete, and print tasks, all of which are stored in a MySQL database.
+Slide 3: Importance of the To-Do List Application
+
+To-Do List applications play a crucial role in personal and professional task management.
+They help individuals stay organized, prioritize tasks, and improve productivity.
+With a To-Do List application, users can easily track deadlines, set reminders, and manage their time efficiently.
+By having a centralized platform for task management, users can access and update their tasks from multiple devices.
+Slide 4: Benefits of the Login Feature
+
+The login feature adds an additional layer of security to the To-Do List application.
+It ensures that only authorized users can access and modify their tasks.
+User-specific data and preferences can be saved and retrieved upon login, providing a personalized experience.
+The login feature allows for multiple user accounts, enabling shared task lists or individual task management.
